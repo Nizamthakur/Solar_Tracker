@@ -24,8 +24,8 @@ Mounting Frame for Solar Panel
 # Clone the Repository:
 
 
-
-cd solar-tracker-arduino
+https://github.com/Nizamthakur/Solar_Tracker.git
+cd Solar_Tracker
 # Upload the Code to Arduino:
 
 Open the solar_tracker.ino file in the Arduino IDE.

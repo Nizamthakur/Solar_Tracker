@@ -1,4 +1,4 @@
-### Solar Tracker Project
+# Solar Tracker Project
 # Overview
 This project is a Solar Tracker system built using an Arduino Mega. The Solar Tracker automatically positions a solar panel to face the direction that maximizes the amount of sunlight it receives throughout the day. By doing so, it optimizes the energy output of the solar panel, making it more efficient than a stationary setup.
 # Features: 
